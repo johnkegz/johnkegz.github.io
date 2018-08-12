@@ -1,0 +1,198 @@
+
+a{
+	text-decoration: none;
+}
+.header{
+	position: fixed;	
+	left: 0px;
+	top: 0px;	
+	background-color: rgb(128,128,128, 0.7);
+	width: 100%;
+	height: 60px;
+	border-bottom: 2px solid silver;
+	
+}
+.right{
+	float: right;
+}
+.left{
+	color: rgb(133, 0, 0);
+	float: left;
+	padding: 15px 0px 0px 90px;
+}
+.right ul{
+	list-style: none;
+	margin: 17px 90px 0px 0px;
+	padding-left: 0px;
+}
+.right ul li{
+	display: inline;
+	margin-left: 15px;
+	padding: 5px 5px 15px 5px;	
+}
+.right ul li a{
+	color: rgb(133, 0, 0);
+	text-decoration: none;
+}
+
+.login-background{
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+
+}
+.main{
+	position: fixed;
+	top: 10%;
+	left: 14%;	
+	width: 70%;
+	bottom: 10%;
+	background-color: rgba(0, 0, 0, 0.5);
+	
+}
+.main1{
+	position: fixed;
+	top: 5%;
+	left: 7%;	
+	width: 90%;
+	bottom: 5%;
+	background-color: rgba(0, 0, 0, 0.7);
+	
+}
+
+.login-section{
+	margin: 5% 60%;
+	width: 40%;
+	
+}
+.login{
+	background-color: white;
+	width: 80%;	
+	border-radius: 5px;
+	padding: 15px 15px;
+}
+
+.login input{
+	border: 1px solid grey;
+	padding: 8px 10px;
+	border-radius: 5px;
+	margin-bottom:15px;
+	width: 92%;
+}
+
+.login button{
+	border: 1px solid grey;
+	padding: 8px 10px;
+	border-radius: 5px;
+	width: 100%;
+	background-color: grey;
+	color: white;
+}
+ .links{
+	width: 70%;
+	margin-left: 40px;
+	overflow: auto;
+	padding: 10px;
+}
+
+.links a{
+    text-decoration:none;
+    color: white;
+   
+}
+.right{
+    float: right;
+}
+
+.stack-title{
+	padding-top: 200px;
+    padding-left: 60px;
+    
+}
+.stack-title{
+	color: white;
+}
+
+.title{
+	font-size: 50px;
+	color: rgb(245, 209, 62);
+	padding-top: 0px;
+	margin-top: 0px;
+}
+
+/**/
+.account-section{
+	margin: 5% 32%;
+	width: 40%;
+	
+}
+
+/**/
+/**/
+.question{
+	width: 73%;
+	background-color: white;
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-top: 4%;
+	position: absolute;
+	padding-right: 2%;
+	padding-left: 3%;
+}
+.qn .postee{
+
+
+}
+
+.postee ul{
+	list-style: none;
+	margin: 17px 90px 0px 0px;
+	padding-left: 0px;
+}
+.postee ul li{
+	display: inline;
+	
+}
+.postee ul li a{
+	color: rgb(133, 0, 0);
+	text-decoration: none;
+}
+.anss{
+	margin-left:90px;
+	margin-right: 90px; 
+}
+.flex-container {
+    display: flex; 
+    padding-bottom: 50px;
+    font-family: Helvetica;
+    
+  }
+  
+  .flex-container > div {
+    border: 2px solid grey;
+	width: 50%;
+	color: black;
+    
+    margin-left: 1%;
+    
+    
+       
+  }
+  .flex-container > div ul li{
+	
+    font-size: 15px; 
+	display: inline;
+			
+}
+.flex-container > div p{    
+	margin-left: 10px;		
+}
+
+.number ul li{
+	
+	display: inline;
+	margin-left: 15px;
+	padding: 5px 5px 15px 5px;
+}
